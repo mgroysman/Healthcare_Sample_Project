@@ -9,4 +9,4 @@ The data contains:
 
 1) Demographics
 2) Inpatient, outpatient, and Rx claims
-3) Carrier claim file
+3) Carriers' claims
